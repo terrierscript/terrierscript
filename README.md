@@ -1,1 +1,3 @@
 # terrierscript
+
+![dog](dog.jpg)
