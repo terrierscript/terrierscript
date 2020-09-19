@@ -1,3 +1,4 @@
 # terrierscript
 
-![dog](https://github.com/terrierscript/terrierscript/blob/master/dog.jpg?raw=true)
+![dog](https://article-tools.vercel.app/api/img?url=https://raw.githubusercontent.com/terrierscript/terrierscript/master/dog.jpg?raw=true)
+
