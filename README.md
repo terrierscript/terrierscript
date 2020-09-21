@@ -1,7 +1,4 @@
 # terrierscript
 
-<details>
-  <summary>🐶</summary>
-  ![dog](https://raw.githubusercontent.com/terrierscript/terrierscript/master/dog.jpg?raw=true)
-</details>
+<img src="https://raw.githubusercontent.com/terrierscript/terrierscript/master/dog.jpg?raw=true" height=300 alt="dog">
 
