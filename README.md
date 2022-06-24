@@ -1,7 +1,7 @@
 # terrierscript
 
 
-[![Contribution Graph](https://commit-365.vercel.app/api/svg/terrierscript?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F13282103%2F175301134-49eaaf63-9488-4408-b850-52563c7e2ef8.jpg&day=91)](https://commit-365.vercel.app/)
+[![Contribution Graph](https://commit-365.vercel.app/api/svg/terrierscript?url=https://user-images.githubusercontent.com/13282103/175454939-d8ef7fa1-8870-451e-8ce5-bfafa65b80db.jpeg&day=91)](https://commit-365.vercel.app/)
 
 <details>
   <summary>🐶</summary>
